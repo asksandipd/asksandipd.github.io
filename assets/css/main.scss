@@ -3,11 +3,9 @@
 ---
 @charset "utf-8";
 
+@import "bootstrap";
+@import "syntax-highlighting";
+@import "site";
 @import "lagrange";
 @import "custom";
 @import "menu";
-@import "footer";
-
-@import "bootstrap",
-  "syntax-highlighting",
-  "site";
