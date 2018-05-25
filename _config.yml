@@ -1,3 +1,15 @@
+title: Sandip Das
+email: asksandipd@gmail.com
+description: >
+  Notes from my journey
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: asksandipd
+github_username:  asksandipd
+linkedin_username: asksandipd1
+google_analytics: UA-119906073-1
+
+
 # Site Settings
 
 paginate:            5
